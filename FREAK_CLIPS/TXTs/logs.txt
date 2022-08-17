@@ -1,0 +1,134 @@
+----------- 2022-01-10 16:52:17.975783 -----------
+16.52  -  Script started
+16.55  -  Added 281 urls
+17.19  -  Clips sorted by views
+17.30  -  Clips downloaded
+17.30  -  Upload started
+19.43  -  Upload finished
+----------- 2022-01-11 08:28:12.820701 -----------
+08.28  -  Script started
+08.31  -  Added 241 urls
+08.52  -  Clips sorted by views
+09.03  -  Clips downloaded
+09.03  -  Upload started
+11.16  -  Upload finished
+----------- 2022-01-12 15:11:08.495571 -----------
+15.11  -  Script started
+15.14  -  Added 294 urls
+15.39  -  Clips sorted by views
+15.53  -  Clips downloaded
+15.53  -  Upload started
+18.01  -  Upload finished
+----------- 2022-01-13 09:19:26.202784 -----------
+09.19  -  Script started
+09.23  -  Added 256 urls
+09.44  -  Clips sorted by views
+10.00  -  Clips downloaded
+10.00  -  Upload started
+12.11  -  Upload finished
+----------- 2022-01-14 09:18:01.027318 -----------
+09.18  -  Script started
+09.21  -  Added 322 urls
+09.49  -  Clips sorted by views
+10.02  -  Clips downloaded
+10.02  -  Upload started
+12.16  -  Upload finished
+----------- 2022-01-15 09:17:36.397258 -----------
+09.17  -  Script started
+09.21  -  Added 346 urls
+09.50  -  Clips sorted by views
+10.09  -  Clips downloaded
+10.10  -  Cookies updated
+10.10  -  Upload started
+12.23  -  Upload finished
+----------- 2022-01-16 07:46:35.387681 -----------
+07.46  -  Script started
+07.50  -  Added 176 urls
+08.05  -  Clips sorted by views
+08.09  -  Clips downloaded
+08.09  -  Upload started
+09.04  -  Upload finished
+----------- 2022-01-17 07:49:20.194406 -----------
+07.49  -  Script started
+07.52  -  Added 164 urls
+08.06  -  Clips sorted by views
+08.12  -  Clips downloaded
+08.12  -  Upload started
+09.05  -  Upload finished
+----------- 2022-01-18 07:50:47.299897 -----------
+07.50  -  Script started
+07.54  -  Added 194 urls
+08.10  -  Clips sorted by views
+08.15  -  Clips downloaded
+08.15  -  Upload started
+09.08  -  Upload finished
+----------- 2022-01-19 09:59:02.316729 -----------
+09.59  -  Script started
+10.02  -  Added 164 urls
+10.16  -  Clips sorted by views
+10.21  -  Clips downloaded
+10.21  -  Upload started
+11.14  -  Upload finished
+----------- 2022-01-20 07:47:40.173948 -----------
+07.47  -  Script started
+07.51  -  Added 147 urls
+08.03  -  Clips sorted by views
+08.09  -  Clips downloaded
+08.09  -  Upload started
+09.01  -  Upload finished
+----------- 2022-01-21 07:47:52.092819 -----------
+07.47  -  Script started
+07.51  -  Added 125 urls
+08.02  -  Clips sorted by views
+08.06  -  Clips downloaded
+08.06  -  Upload started
+08.57  -  Upload finished
+----------- 2022-01-22 06:50:28.054020 -----------
+06.50  -  Script started
+06.54  -  Added 160 urls
+07.07  -  Clips sorted by views
+07.12  -  Clips downloaded
+07.12  -  Upload started
+07.53  -  Upload finished
+----------- 2022-01-23 07:10:25.965271 -----------
+07.10  -  Script started
+07.14  -  Added 100 urls
+07.22  -  Clips sorted by views
+07.25  -  Clips downloaded
+07.25  -  Upload started
+08.03  -  Upload finished
+----------- 2022-01-24 07:46:51.005496 -----------
+07.46  -  Script started
+07.50  -  Added 120 urls
+08.00  -  Clips sorted by views
+08.04  -  Clips downloaded
+08.04  -  Upload started
+08.58  -  Upload finished
+----------- 2022-01-25 07:49:04.354563 -----------
+07.49  -  Script started
+07.52  -  Added 155 urls
+08.05  -  Clips sorted by views
+08.10  -  Clips downloaded
+08.10  -  Upload started
+09.02  -  Upload finished
+----------- 2022-01-26 07:51:27.145724 -----------
+07.51  -  Script started
+07.55  -  Added 171 urls
+08.09  -  Clips sorted by views
+08.13  -  Clips downloaded
+08.13  -  Upload started
+09.04  -  Upload finished
+----------- 2022-01-27 07:54:29.087902 -----------
+07.54  -  Script started
+07.58  -  Added 113 urls
+08.07  -  Clips sorted by views
+08.12  -  Clips downloaded
+08.12  -  Upload started
+09.05  -  Upload finished
+----------- 2022-01-28 07:47:35.240704 -----------
+07.47  -  Script started
+07.51  -  Added 141 urls
+08.03  -  Clips sorted by views
+08.08  -  Clips downloaded
+08.08  -  Upload started
+09.01  -  Upload finished
